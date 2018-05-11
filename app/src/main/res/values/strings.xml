@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RegisterA</string>
+    <string-array name="arr_type">
+        <item>请选择职称</item>
+        <item>初级资格</item>
+        <item>中级资格</item>
+        <item>高级资格</item>
+    </string-array>
+</resources>
